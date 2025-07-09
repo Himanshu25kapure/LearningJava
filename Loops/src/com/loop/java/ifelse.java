@@ -15,6 +15,8 @@ public class ifelse {
 		
 		else {System.out.print("Number is Odd");}
 		
+		sc.close();
+		
 		
 
 	}
